@@ -25,7 +25,6 @@ structure = [
     {ID: 'DIS', MIN: 0, MAX: 20},
     {ID: 'INC', MIN: 0, MAX: 1},
     {ID: 'DTM', MIN: 0, MAX: 10},
-    {ID: 'LDT', MIN: 0, MAX: 12},
     {ID: 'LIN', MIN: 0, MAX: 5},
     {ID: 'SI', MIN: 0, MAX: 99999},
     {ID: 'PID', MIN: 0, MAX: 200},
